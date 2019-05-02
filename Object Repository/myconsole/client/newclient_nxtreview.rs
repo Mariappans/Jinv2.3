@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newclient_nxtreview</name>
+   <tag></tag>
+   <elementGuidId>55c92225-d891-47a1-bcdf-0a21c5795bb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;myModal&quot;]/div/div/ng-include/div[2]/form/div[12]/div/div/span/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;myModal&quot;]/div/div/ng-include/div[2]/form/div[12]/div/div/span/div[1]/input</value>
+   </webElementProperties>
+</WebElementEntity>

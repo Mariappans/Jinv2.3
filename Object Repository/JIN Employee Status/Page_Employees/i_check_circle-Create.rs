@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_check_circle-Create</name>
+   <tag></tag>
+   <elementGuidId>96c2b5d7-b479-480b-93cf-3a74157ace16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;main-content ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;admin-control ng-scope&quot;]/div[@class=&quot;row mtb-15 ng-scope&quot;]/div[@class=&quot;col xl12 l12 m12 s12 plr-5&quot;]/div[@class=&quot;x-scroll of-x width-auto z-depth-2&quot;]/table[@class=&quot;full-bordered highlight bor text-nowrap&quot;]/tbody[1]/tr[@class=&quot;cursor ng-scope&quot;]/td[@class=&quot;text-center ptb-0&quot;]/div[@class=&quot;m-t-6&quot;]/span[@class=&quot;card-title&quot;]/i[@class=&quot;material-icons created ng-scope tooltipped&quot;][count(. | //i[(text() = 'check_circle' or . = 'check_circle')]) = count(//i[(text() = 'check_circle' or . = 'check_circle')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Enabler'])[1]/following::i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons created ng-scope tooltipped</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>user.accountStatus==='CREATED'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip</name>
+      <type>Main</type>
+      <value>Created</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-position</name>
+      <type>Main</type>
+      <value>right</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip-id</name>
+      <type>Main</type>
+      <value>4b08e144-23b8-eff8-1100-ecbb90da1935</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check_circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;main-content ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;admin-control ng-scope&quot;]/div[@class=&quot;row mtb-15 ng-scope&quot;]/div[@class=&quot;col xl12 l12 m12 s12 plr-5&quot;]/div[@class=&quot;x-scroll of-x width-auto z-depth-2&quot;]/table[@class=&quot;full-bordered highlight bor text-nowrap&quot;]/tbody[1]/tr[@class=&quot;cursor ng-scope&quot;]/td[@class=&quot;text-center ptb-0&quot;]/div[@class=&quot;m-t-6&quot;]/span[@class=&quot;card-title&quot;]/i[@class=&quot;material-icons created ng-scope tooltipped&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Enabler'])[1]/following::i[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JMDChennai-6'])[1]/following::i[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[1]/preceding::i[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//span/i</value>
+   </webElementXpaths>
+</WebElementEntity>

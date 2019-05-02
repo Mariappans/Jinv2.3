@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>homepage_icon</name>
+   <tag></tag>
+   <elementGuidId>da7da94e-8b19-40ff-b53b-defb04ad7816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;bs-example-navbar-collapse-1&quot;]/ul[1]/li[1]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;bs-example-navbar-collapse-1&quot;]/ul[1]/li[1]/a/span</value>
+   </webElementProperties>
+</WebElementEntity>
